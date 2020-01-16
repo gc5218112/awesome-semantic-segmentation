@@ -105,6 +105,7 @@
 	+ https://github.com/aitorzip/Keras-ICNet [Keras]
 	+ https://github.com/hellochick/ICNet-tensorflow [Tensorflow]
 	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
+	+ https://github.com/supervisely/supervisely/tree/master/plugins/nn/icnet [PyTorch]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf] [?]
 	+ https://github.com/Eromera/erfnet [Torch]
 	+ https://github.com/Eromera/erfnet_pytorch [PyTorch]
@@ -191,6 +192,12 @@
 	+ https://github.com/MarvinTeichmann/ConvCRF [PyTorch]
 - Multi-scale Guided Attention for Medical Image Segmentation [https://arxiv.org/pdf/1906.02849.pdf] [2019]
 	+ https://github.com/sinAshish/Multi-Scale-Attention [PyTorch]
+- DFANet [https://arxiv.org/pdf/1904.02216.pdf] [2019]
+	+ https://github.com/huaifeng1993/DFANet [PyTorch]
+- ExtremeC3Net [https://arxiv.org/pdf/1908.03093.pdf] [2019]
+	+ https://github.com/HYOJINPARK/ExtPortraitSeg [PyTorch]
+- EncNet [https://arxiv.org/pdf/1803.08904.pdf] [2018]
+	+ https://github.com/zhanghang1989/PyTorch-Encoding [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
@@ -208,6 +215,7 @@
 	+ https://github.com/matterport/Mask_RCNN [Keras]
 	+ https://github.com/facebookresearch/maskrcnn-benchmark [PyTorch]
 	+ https://github.com/open-mmlab/mmdetection [PyTorch]
+	+ https://github.com/ZFTurbo/Keras-Mask-RCNN-for-Open-Images-2019-Instance-Segmentation [Keras]
 - RIS [https://arxiv.org/pdf/1511.08250.pdf]
   + https://github.com/bernard24/RIS [Torch]
 - FastMask [https://arxiv.org/pdf/1612.08843.pdf]
@@ -220,6 +228,12 @@
 	+ https://github.com/ternaus/TernausNetV2 [PyTorch]
 - MS R-CNN [https://arxiv.org/pdf/1903.00241.pdf] [2019]
 	+ https://github.com/zjhuang22/maskscoring_rcnn [PyTorch]
+- AdaptIS [https://arxiv.org/pdf/1909.07829.pdf] [2019]
+	+ https://github.com/saic-vul/adaptis [MxNet][PyTorch]
+- Pose2Seg [https://arxiv.org/pdf/1803.10683.pdf] [2019]
+	+ https://github.com/liruilong940607/Pose2Seg [PyTorch]
+- YOLACT [https://arxiv.org/pdf/1904.02689.pdf] [2019]
+	+ https://github.com/dbolya/yolact [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
@@ -309,6 +323,8 @@
   + https://github.com/hszhao/semseg [PyTorch]
   + https://github.com/yassouali/pytorch_segmentation [PyTorch]
   + https://github.com/divamgupta/image-segmentation-keras [Keras]
+  + https://github.com/CSAILVision/semantic-segmentation-pytorch [PyTorch]
+  + https://github.com/thuyngch/Human-Segmentation-PyTorch [PyTorch]
 
 ## Evaluation code
   + [Cityscapes dataset] https://github.com/phillipi/pix2pix/tree/master/scripts/eval_cityscapes
